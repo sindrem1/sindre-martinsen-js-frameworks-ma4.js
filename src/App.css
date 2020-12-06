@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.card-body {
+  margin-bottom: 20px;
+ }
+
+ ul {
+  list-style: none;
+  margin-right: 30px;
+ }
